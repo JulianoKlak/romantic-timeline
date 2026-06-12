@@ -206,7 +206,6 @@ NEVER use external map libraries or request API keys from users - the Manus prox
     "zod": "^4.1.12"
   },
   "devDependencies": {
-    "@builder.io/vite-plugin-jsx-loc": "^0.1.1",
     "@tailwindcss/typography": "^0.5.15",
     "@tailwindcss/vite": "^4.1.3",
     "@types/express": "4.17.21",
