@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm install && pnpm build",
+  "startCommand": "NODE_ENV=production node dist/index.js",
+  "outputDirectory": "dist",
+  "framework": "express",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
