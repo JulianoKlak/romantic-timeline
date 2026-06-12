@@ -22,7 +22,7 @@ export default function HeroSection() {
       <div
         className="absolute inset-0 bg-cover bg-bottom"
         style={{
-          backgroundImage: 'url(../src/assets/foto-capa.jpg)',
+          backgroundImage: 'url(/assets/foto-capa.jpg)',
           backgroundAttachment: 'fixed',
         }}
       >

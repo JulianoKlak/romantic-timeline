@@ -12,10 +12,10 @@ export default function Gallery() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const images = [
-    '/src/assets/foto-02.jpg',
-    '/src/assets/role-02.jpg',
-    '/src/assets/foto-04.jpg',
-    '/src/assets/foto-05.jpg',
+    '/assets/foto-02.jpg',
+    '/assets/role-02.jpg',
+    '/assets/foto-04.jpg',
+    '/assets/foto-05.jpg',
   ];
 
   return (

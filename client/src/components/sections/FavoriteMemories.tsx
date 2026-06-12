@@ -19,19 +19,19 @@ const MEMORIES: Memory[] = [
     id: '1',
     title: 'Estar juntos...',
     description: '...é uma das coisas que mais gostamos...',
-    image: '/src/assets/foto-01.jpg',
+    image: '/assets/foto-01.jpg',
   },
   {
     id: '2',
     title: 'Viagens',
     description: 'Gostamos de exploramos novos lugares, onde criamos memórias e nos aproximamos ainda mais....',
-    image: '/src/assets/role-04.jpeg',
+    image: '/assets/role-04.jpeg',
   },
   {
     id: '3',
     title: 'Curtir Shows em Noites Especiais',
     description: 'Conversas profundas, risos sinceros e momentos que nos fizeram conhecer melhor um ao outro.',
-    image: '/src/assets/foto-03.jpg',
+    image: '/assets/foto-03.jpg',
   },
 ];
 
