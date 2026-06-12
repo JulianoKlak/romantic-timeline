@@ -44,6 +44,5 @@ async function startServer() {
 }
 
 startServer().catch(console.error);
-}
 
-startServer().catch(console.error);
+
