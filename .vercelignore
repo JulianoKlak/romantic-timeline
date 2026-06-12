@@ -2,7 +2,5 @@ node_modules
 .git
 .env.local
 .env.*.local
-client/**
-!dist
 .manus-logs
 .DS_Store
